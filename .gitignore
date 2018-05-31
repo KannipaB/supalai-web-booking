@@ -1,0 +1,13 @@
+node_modules
+dist
+.tmp
+bower_components
+test/bower_components
+.DS_Store
+.DS_Store
+.editorconfig
+.idea/workspace.xml
+.idea/supalai-web-booking.iml
+.idea/modules.xml
+.idea/misc.xml
+.idea/inspectionProfiles/Project_Default.xml
